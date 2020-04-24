@@ -60,8 +60,8 @@ Microbit, plastic tube/pipe, fabric, tape, battery, wire, water carrier/plastic 
 
 ![Image](finalconcept.jpg)
 
-![Image](coding1.jpg)
-![Image](coding1.jpg)
+![Image](coding1.JPG)
+
 
 ## Design process discussion ##
 
