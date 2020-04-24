@@ -11,13 +11,13 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Temperature senspr*
 
-*Insert URL to project*
+*https://www.youtube.com/watch?v=_T4N8O9xsMA&feature=youtu.be*
 
-![Image](missingimage.png)
+![Image](Microbit-temperature.JPG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *I am also trying to create a temperature sensor with the microbit but with this it will also display the temperature and the difficulty level of workout*.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
@@ -33,6 +33,7 @@ This project is related to mine because *insert reasons here*.
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+![image](concept1.jpg)
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
