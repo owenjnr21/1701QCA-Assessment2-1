@@ -5,13 +5,13 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+*Exercise Temperature*
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Temperature senspr*
+*Temperature sensor*
 
 *https://www.youtube.com/watch?v=_T4N8O9xsMA&feature=youtu.be*
 
@@ -29,18 +29,21 @@ This project is related to mine because *I am also trying to create a temperatur
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*A device that helps with exercising, keeping fit and healthy*
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+*First concept was to use the microbit to create a timer that times your exercise and it also displays codes/numbers that represent a workout activity.* 
 ![image](concept1.jpg)
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*Put details here.*
+*Using a motor with a propeller as a windmill, it can measure the windspeed. In doing so the microbit and determine a workout routine with the windspeed reading from the windmill.*
+
+![image](concept2.jpg)
 
 ### Final design concept ###
+*My final concept is to create a wristband that has a temperature sensor and whenever its hot it beeps to alert you then shoots out water like a mini water gun to drink or spray your face. Numbers will be used to display the temperature and graph bar will be displayed aswell to determine the workout/intensity.*
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
