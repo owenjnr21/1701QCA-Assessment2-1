@@ -4,8 +4,8 @@ You will use this workbook to keep track of your progress through the course and
 
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
-## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+## Exercise Temperature ##
+*Exercise Device*
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -27,19 +27,22 @@ This project is related to mine because *insert reasons here*.
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
 ## Conceptual progress ##
+*I have came up with a few ideas of what I like doing as a hobby which were, photography, sport/exercising. My first idea was to do with photography as using the microbit to trigger the flashlight on my phone. However I have ab iPhone and the coding was a bit too difficult for me. My Second Idea was using a microbit to control a RC car, however the idea was not that interactive and solving a challenge that we have in todays society. In doing so I came up with an idea that involves exercising as it helps people to keep fit and stay healthy.*
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*Device that helps with exercising and choses a workout activity for you*
 
 ### Design concept 1 ###
+*For my first conceppt, the microbit is to be used as a timer and also displays codes/numbers/symbols that represent a different workout activity. The microbit selects an activity at random and times you each activity.*
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*Put details here.*
+*For the second concept, using a motor with a propeller as form of a windmill to measure the wind. In doing so the wind speed will sent to the microbit to determine what workout activity can be done.The microbit also displays codes that represent the different types of workout activities.*
 
 ### Final design concept ###
+*Using a microbit to measure the temperature and it will choose a workout activity or routine to do. Graph bars will be displayed on the lED Lights on the microbit to determine the difficulty of the workout.*
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
