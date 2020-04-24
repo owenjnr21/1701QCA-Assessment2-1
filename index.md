@@ -53,17 +53,14 @@ This project is related to mine because *I am also trying to create a temperatur
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+*I have watch some videos on coding a microbit for a temperature sensor. I have started coding, however it is difficult.*
 
 *Materials:
 Microbit, plastic tube/pipe, fabric, tape, battery, wire, water carrier/plastic bag, water, motor/pump.*
 
 ![Image](finalconcept.jpg)
+
+![image](coding1.jpg)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
