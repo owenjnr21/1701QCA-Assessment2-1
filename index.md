@@ -20,7 +20,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 This project is related to mine because *I am also trying to create a temperature sensor with the microbit but with this it will also display the temperature and the difficulty level of workout*.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+*When the temperature is high we humans are vunerable to getting heatstrokes, feeling dizzy, headaches or even fainting. Water is one of the most effective thing that we can use to overcome this as it hydrates the body.*
 
 ### *Brief resource name/description* ###
 
