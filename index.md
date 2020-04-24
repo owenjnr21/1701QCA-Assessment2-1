@@ -66,8 +66,7 @@ Microbit, plastic tube/pipe, fabric, tape, battery, wire, water carrier/plastic 
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
-*in the next few weeks I will be gathering the necessary equipment to build my project, I will also be trialling some coding on the microbit to see if it functions well.
+*In the next few weeks I will be gathering the necessary equipment to build my project, I will also be trialling some coding on the microbit to see if it functions well.
 Further reseach will be conducted to help develop the idea more.
 I will iterate on this idea and see if there are other better concepts for it and it test out some of these concepts or ideas.
 Conduct test with project and design the body of the project to hold equipment.*
