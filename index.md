@@ -43,13 +43,13 @@ This project is related to mine because *I am also trying to create a temperatur
 ![image](concept2.jpg)
 
 ### Final design concept ###
-*My final concept is to create a wristband that has a temperature sensor and whenever its hot it beeps to alert you then shoots out water like a mini water gun to drink or spray your face. Numbers will be used to display the temperature and graph bar will be displayed aswell to determine the workout/intensity.*
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+*My final concept is to create a wristband that has a temperature sensor and whenever its hot it beeps to alert you then shoots out water like a mini water gun to drink or spray your face. Numbers will be used to display the temperature and LED lights on the microbit will display a straign line for it to shoot or lights are spaced out to show it spraying, so that there are two options to choose from.*
+
+![image](finalconcept.jpg)
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
 
 ## Physical experimentation documentation ##
 
@@ -60,7 +60,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
+![Image](finalconcept.jpg)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
