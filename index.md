@@ -60,10 +60,13 @@ Microbit, plastic tube/pipe, fabric, tape, battery, wire, water carrier/plastic 
 
 ![Image](finalconcept.jpg)
 
-![image](coding1.jpg)
+![Image](coding1.jpg)
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+
+*There were ideas that were brainstormed and from there ideas where development. From words, they were turned into challenges that some people in society face today and there were ideas and ways I came up with to overcome some of these challenges. The challenge that I choose to fix was the problem with high temperatures when people are running or walking around.*
+
+![Image](ideastriangle.jpg)
 
 ## Next steps ##
 *In the next few weeks I will be gathering the necessary equipment to build my project, I will also be trialling some coding on the microbit to see if it functions well.
