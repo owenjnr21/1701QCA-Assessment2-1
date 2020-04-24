@@ -60,6 +60,9 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
+*Materials:
+Microbit, plastic tube/pipe, fabric, tape, battery, wire, water carrier/plastic bag, water, motor/pump.*
+
 ![Image](finalconcept.jpg)
 
 ## Design process discussion ##
